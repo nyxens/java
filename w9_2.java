@@ -9,7 +9,7 @@ public class w9_2{
         while(true){
             String ip = scanner.nextLine();
             if(ip.equalsIgnoreCase("exit")){
-                break;
+                break; 
             }
             uniqueVisitors.add(ip);
         }

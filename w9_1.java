@@ -24,7 +24,7 @@ public class w9_1{
         while(itr.hasNext()){
             String element = itr.next();
             System.out.print(element + " ");
-        }
+        } 
         
         HashSet<String> newStudents = new HashSet<String>();
 

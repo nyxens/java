@@ -41,7 +41,7 @@ class Student implements Comparable<Student>{
         return "Roll Number: " + rollNumber + ", Name: " + name + ", Marks: " + marks;
     }
 }
-public class w9_3{
+public class w9_3{ 
     public static void main(String[] args){
         TreeSet<Student> students = new TreeSet<>();
 
