@@ -1,5 +1,1 @@
-hello world!
-i am krishna!
-i am coding rn!
-i like java!
-java is cool.
+Hello world
